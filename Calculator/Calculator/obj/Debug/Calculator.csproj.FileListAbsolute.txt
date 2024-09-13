@@ -1,0 +1,7 @@
+C:\Users\lol\Downloads\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\lol\Downloads\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\lol\Downloads\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\lol\Downloads\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\lol\Downloads\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lol\Downloads\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\lol\Downloads\Calculator\Calculator\obj\Debug\Calculator.pdb
